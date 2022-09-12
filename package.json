@@ -31,7 +31,7 @@
     "prunei18n": "matrix-prune-i18n",
     "diff-i18n": "cp src/i18n/strings/en_EN.json src/i18n/strings/en_EN_orig.json && matrix-gen-i18n && matrix-compare-i18n-files src/i18n/strings/en_EN_orig.json src/i18n/strings/en_EN.json",
     "clean": "rimraf lib webapp",
-    "build": "yarn clean && yarn build:genfiles && yarn build:bundle",
+    "build": "sh build.sh",
     "build-stats": "yarn clean && yarn build:genfiles && yarn build:bundle-stats",
     "build:jitsi": "node scripts/build-jitsi.js",
     "build:res": "node scripts/copy-res.js",

@@ -10,6 +10,14 @@
       "StackName": "amplify-dmechatclient-dev-93147",
       "StackId": "arn:aws:cloudformation:us-west-2:650159225327:stack/amplify-dmechatclient-dev-93147/41d65db0-329f-11ed-bdc8-0a6ff644bdcb",
       "AmplifyAppId": "dh8mwayi7rkrj"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dh8mwayi7rkrj",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
