@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dmechatclient-dev-93147-authRole",
+      "UnauthRoleArn": "arn:aws:iam::650159225327:role/amplify-dmechatclient-dev-93147-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::650159225327:role/amplify-dmechatclient-dev-93147-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-dmechatclient-dev-93147-deployment",
+      "UnauthRoleName": "amplify-dmechatclient-dev-93147-unauthRole",
+      "StackName": "amplify-dmechatclient-dev-93147",
+      "StackId": "arn:aws:cloudformation:us-west-2:650159225327:stack/amplify-dmechatclient-dev-93147/41d65db0-329f-11ed-bdc8-0a6ff644bdcb",
+      "AmplifyAppId": "dh8mwayi7rkrj"
+    }
+  }
+}
