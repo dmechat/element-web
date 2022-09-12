@@ -1,8 +1,8 @@
 {
-  "name": "element-web",
+  "name": "dmechat-client",
   "version": "1.11.4",
   "description": "A feature-rich client for Matrix.org",
-  "author": "New Vector Ltd.",
+  "author": "DMe",
   "repository": {
     "type": "git",
     "url": "https://github.com/vector-im/element-web"
