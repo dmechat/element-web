@@ -81,7 +81,7 @@ const CompatibilityView: React.FC<IProps> = ({ onAccept }) => {
         <div className="mx_ErrorView_container">
             <div className="mx_HomePage_header">
                 <span className="mx_HomePage_logo">
-                    <img height="42" src="themes/element/img/logos/element-logo.svg" alt="Element" />
+                    <img height="42" src="themes/element/img/logos/element-logo.png" alt="Element" />
                 </span>
                 <h1>{ _t("Unsupported browser") }</h1>
             </div>
